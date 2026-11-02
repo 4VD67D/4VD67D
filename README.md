@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Артём 👋
 
-<!--
-**4VD67D/4VD67D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент, пишу на Python. Ищу удалённую подработку или стажировку: тестирование ПО, Python-скрипты, техническая документация.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
+- Python: tkinter, SQLite, unittest
+- Оформление технических документов (руководства пользователя и программиста, ГОСТ)
+- Git и GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Учебный планировщик](https://github.com/4VD67D/study-planner): программа для учёта учебных заданий (Python, tkinter, SQLite, автотесты)
+
+## Контакты
+- Telegram: @clouth0
+- Почта: clouth04@gmail.com
