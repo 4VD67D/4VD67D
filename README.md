@@ -9,6 +9,7 @@
 
 ## Проекты
 - [Учебный планировщик](https://github.com/4VD67D/study-planner): программа для учёта учебных заданий (Python, tkinter, SQLite, автотесты)
+- ![Tests](https://github.com/4VD67D/study-planner/actions/workflows/tests.yml/badge.svg)
 
 ## Контакты
 - Telegram: @clouth0
